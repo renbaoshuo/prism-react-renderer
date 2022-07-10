@@ -38,4 +38,5 @@ module.exports = {
   typescript: true,
   wasm: true,
   yaml: true,
+  nginx: true,
 };
